@@ -1,6 +1,6 @@
 # rider_app
 
-A new Flutter project.
+A new Flutter project. Demo project of a transport mobile app for riders.
 
 ## Getting Started
 
