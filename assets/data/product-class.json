@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "name": "Business Class",
+        "description": "Mercedez Benz, Audi, Jaguar, etc.",
+        "imageFile": "assets/images/mercedesbenzE350.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Premium Class",
+        "description": "Toyota Camry, Honda Accord, Hyundai Elantra, etc.",
+        "imageFile": "assets/images/toyotaCamry.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Deluxe Class",
+        "description": "Toyota Prius, Suzuki Swift, Hyundai i3, etc.",
+        "imageFile": "assets/images/2018Prius.jpg"
+    }
+]
